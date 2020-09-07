@@ -2,9 +2,9 @@
 
 I'm a freelance web developer who uses Drupal as primary tool.
 
-I have the blog where I share some of my knoweldge and thoughts https://niklan.net/ (in Russian).
+I have the blog where I share some of my knowledge and thoughts https://niklan.net/ (in Russian).
 
-- 🔭 I’m currently working on my pet-project [Druki](https://github.com/Druki-ru) — Drupal Encylopedia.
+- 🔭 I’m currently working on my pet-project [Druki](https://github.com/Druki-ru) — Drupal Encyclopedia.
 
 <!--
 **Niklan/niklan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
